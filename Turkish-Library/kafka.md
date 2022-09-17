@@ -1,9 +1,3 @@
-## CentOS 3 üzerinde 7 düğümleri olan bir Kafka kümesi oluşturun
-Alexander Braun tarafından 17 Şub 2018 tarihinde yayınlandı - Linux, Java, Apache Kafka ile etiketlendi
-Apache Kafka açık kaynaklı dağıtılmış bir akış işleme platformudur. Üst düzey bir perspektiften Kafka, üreticilerin bir konuya mesaj göndermesine ve tüketicilerin bir konudan mesaj okumasına izin veren dağıtılmış bir mesajlaşma sistemidir. Kafka büyük ölçüde ölçeklenebilir ve bir kümede çalıştırıldığında yüksek verim ve düşük gecikme sunar. Bu yazı, bir geliştirme ortamı için 3 düğümlerinden oluşan bir Kafka kümesinin nasıl kurulacağını açıklar.
-
-
- 
 ##### Önkoşullar
 Bir 3 düğüm Kafka kümesi kuracağımız için en son güncellemelere ve JDK 1.8'e sahip 3 CentOS 7 Linux sunucularına ihtiyacımız var. Bu örnekte 3 sanal makineleri kullanıyorum. Bu yazıda böyle bir Sanal Kutu görüntüsü oluşturma işlemini bulabilirsiniz.
 
